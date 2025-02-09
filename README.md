@@ -1,6 +1,5 @@
-# Hello World! 👋
+# Hello World! 👋😺
 <br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl1MGZnNDhyeTBwZTc5am90OHNtdDN5Mjg0dWV6M3ZpdDA1cjJpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2up9FZPFncIt1e/giphy.gif" alt="cat_welcoming_gif"/>
 
 I'm Nandhakumar, a Flutter developer, currently diving deeper into **Android** and **iOS**. I'm passionate about creating smooth, engaging mobile app experiences. I also have experience in Web Development.
 
