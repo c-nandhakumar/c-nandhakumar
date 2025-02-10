@@ -66,7 +66,7 @@ I'm Nandhakumar, a Flutter developer, currently diving deeper into **Android** a
 ### 💬 &nbsp;Let's Connect!
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nandhakumar-c/) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/_nandhakumar__) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nandha2402@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nandha2402@gmail.com?subject=Hello%20Nandhakumar,%20From%20Github)
 
 Thanks for stopping by! <br>
 Nandri, Vanakkam 😊
